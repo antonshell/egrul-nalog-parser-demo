@@ -51,6 +51,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['scenario'])){
             break;
     }
 
+    header('Content-Type: text/html; charset=utf-8');
     echo '<pre>';
     print_r($data);
     die();
