@@ -1,0 +1,27 @@
+{
+  "name": "egrul-nalog-parser-demo",
+  "version": "1.0.0",
+  "description": "This is a demo application for [**egrul-nalog-parser**][1] library",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonshell/egrul-nalog-parser-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonshell/egrul-nalog-parser-demo/issues"
+  },
+  "homepage": "https://github.com/antonshell/egrul-nalog-parser-demo#readme"
+}
