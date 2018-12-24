@@ -12,3 +12,20 @@ See [**demo**][2] for more details
 
 [1]: https://github.com/antonshell/egrul-nalog-parser
 [2]: http://demo.antonshell.me/egrul-nalog-parser/
+
+# Install
+
+1 . Clone repository
+
+```
+https://github.com/antonshell/egrul-nalog-parser-demo.git
+```
+
+2 . Install dependencies
+
+```
+composer install
+npm install
+```
+
+ 
